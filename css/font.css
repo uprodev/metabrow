@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url('../fonts/Gotham-Medium.woff2') format('woff2'),
+  url('../fonts/Gotham-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham Pro';
+  src: url('../fonts/GothamPro.woff2') format('woff2'),
+  url('../fonts/GothamPro.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sahara Bodoni';
+  src: url('../fonts/SaharaBodoni.woff2') format('woff2'),
+  url('../fonts/SaharaBodoni.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
